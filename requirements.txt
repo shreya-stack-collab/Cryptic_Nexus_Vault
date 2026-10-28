@@ -1,0 +1,5 @@
+Flask>=3.0,<4.0
+cryptography>=42.0
+Pillow>=10.0
+qrcode[pil]>=7.4
+opencv-python-headless>=4.9,<5.0
